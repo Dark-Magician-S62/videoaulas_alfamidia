@@ -1,7 +1,18 @@
+a{
+	color: silver;
+	font-size: 28px;
+	font-family: "Comic Sans MS", "Comic Sans", cursive, Arial, Helvetica, sans-serif;
+}
+body{
+	background-color: #010101;
+}
 h1
 {
 	background-color: #000077;
 	color: silver;
 	font-family: sans-serif;
-
+}
+#itens
+{
+	color: #909090;
 }
